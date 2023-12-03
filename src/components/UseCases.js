@@ -1,10 +1,10 @@
 // UseCases.js
 import React, { useState } from 'react';
 import './UseCases.css'; // Import your CSS file for styling
-import case1 from "./Images/case1.jpeg"
-import case2 from "./Images/case2.jpeg"
-import case3 from "./Images/case3.jpeg"
-import case4 from "./Images/case4.jpeg"
+import case1 from "../Images/case1.jpeg"
+import case2 from "../Images/case2.jpeg"
+import case3 from "../Images/case3.jpeg"
+import case4 from "../Images/case4.jpeg"
 const UseCases = () => {
   const useCasesData = [
     {

@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-    color:#555555;
+    
 }
 body {
 	font-family: helvetica neue,Helvetica,Arial,sans-serif;
@@ -11,6 +11,7 @@ body {
 }
 a {
     text-decoration: none;
+    color:#555555;
 }
 
 .logo {

@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './Header';
-import Home from './Home';
-import UseCases from './UseCases';
-import Features from './Features';
-import Pricing from './Pricing';
-import Footer from './Footer';
+import Header from './components/Header';
+import Home from './components/Home';
+import UseCases from './components/UseCases';
+import Features from './components/Features';
+import Pricing from './components/Pricing';
+import Footer from './components/Footer';
 
 const App = () => {
   return (

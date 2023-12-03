@@ -1,10 +1,10 @@
 
 import React, { useState } from 'react';
 import './Features.css'; // Import your CSS file for styling
-import feature1 from "./Images/feature1.jpeg"
-import feature2 from "./Images/feature2.jpeg"
-import feature3 from "./Images/feature3.jpeg"
-import feature4 from "./Images/feature4.jpeg"
+import feature1 from "../Images/feature1.jpeg"
+import feature2 from "../Images/feature2.jpeg"
+import feature3 from "../Images/feature3.jpeg"
+import feature4 from "../Images/feature4.jpeg"
 const FeatureSection = () => {
   const featuresData = [
     {
