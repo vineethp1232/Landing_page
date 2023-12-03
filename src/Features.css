@@ -2,6 +2,7 @@
 
 #feature-section {
     margin-top: 20px;
+    
     text-align: center;
   }
   
@@ -82,5 +83,8 @@
   
   .feature-box button:hover {
     background-color: #0056b3;
+  }
+  #features{
+    margin-left: 1vw;
   }
   

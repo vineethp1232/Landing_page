@@ -34,8 +34,9 @@
     width: 50%;
     display: flex;
     justify-content: center;
-    background-color: #AFDBF5;
-    color: #2E5090;
+    background-color:#f4f4f4;
+    border-radius: 8px;
+    
   }
   .content1{
     margin-top: 3vh;
@@ -57,4 +58,6 @@
     height: 30vh;
     margin-bottom: 2vh;
   }
-  
+  #use-cases{
+margin-left: 1vw;
+  }

@@ -46,7 +46,7 @@
     background-color: #0056b3;
   }
 .pricing-plan h3{
-    background-color:#AFDBF5 ;
+    background-color:#f4f4f4 ;
 }  
 
 @media (max-width: 768px) {
@@ -60,4 +60,7 @@
         width:40%;
       }
 
+  }
+  #pricing{
+    margin-left: 1vw;
   }
